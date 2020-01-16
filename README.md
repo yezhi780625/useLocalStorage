@@ -1,2 +1,0 @@
-# useLocalStorage
-Created with CodeSandbox
